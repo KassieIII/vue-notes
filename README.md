@@ -42,6 +42,21 @@ npm run preview
 npm test
 ```
 
+## Keyboard shortcuts
+
+| Shortcut         | Action                              |
+| ---------------- | ----------------------------------- |
+| `Ctrl/Cmd + N`   | Create new note                     |
+| `Ctrl/Cmd + S`   | Force-save (autosave runs at 300ms) |
+| `Ctrl/Cmd + F`   | Focus the search box                |
+| `Esc`            | Blur active editor / search         |
+
+## Roadmap
+
+- [ ] Export notes as a `.zip` of `.md` files
+- [ ] Optional end-to-end encryption for synced storage
+- [ ] PWA install + offline service worker
+
 ## License
 
 MIT
